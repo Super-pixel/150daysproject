@@ -1,7 +1,6 @@
-body{
-margin-right: 100px;
-margin-left: 150px;
-background-image: url("http://clipartcow.com/wp-content/uploads/2016/02/Cartoon-laptop-computer-clipart.jpg");
-width: 1000px
-height: 700px
+h1{
+  color: black;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Comic Sans Ms";
 }
