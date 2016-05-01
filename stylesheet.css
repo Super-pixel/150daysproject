@@ -17,6 +17,12 @@ h1{
   font-size: 75px;
   font-family: "Comic Sans Ms", sans-serif;
 }
+h3{ 
+  color: orange;
+  text-align: center;
+  font-size: 32px;
+  font-family: "Comic Sans Ms", sans-serif;
+}
 table{
   border: 2px solid black;
 }
