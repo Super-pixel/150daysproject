@@ -15,12 +15,16 @@ h1{
   color: red;
   text-align: center;
   font-size: 75px;
-  font-family: "Comic Sans Ms";
+  font-family: "Comic Sans Ms", sans-serif;
 }
-h3{
-  color: Blue;
-  text-align: center;
-  font-size: 24px;
-  font-family:"Comic Sans Ms";
+table{
+  border: 2px solid black;
 }
+a{
+  font-family:"Candara", sans-serif; 
+  font-size: 30px;
+}
+  
+  
+
  
