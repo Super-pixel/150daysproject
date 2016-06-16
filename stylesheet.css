@@ -1,12 +1,11 @@
 body{
   margin-right: 100px;
   margin-left: 150px;
-  background-image: url("http://lazytechguys.com/wp-content/gallery/new-super-mario-bros-wii-u/new-super-mario-bros-wii-u-map.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: gray;
+  background-color: #FC0B50;
   width: 1000px;
   height: 700px;
   opacity: 50%;
