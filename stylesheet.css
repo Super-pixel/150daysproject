@@ -1,7 +1,6 @@
 body{
   margin-right: 100px;
   margin-left: 150px;
-  background-image: url("http://lazytechguys.com/wp-content/gallery/new-super-mario-bros-wii-u/new-super-mario-bros-wii-u-map.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -12,22 +11,19 @@ body{
   opacity: 50%;
 }
 h1{
-  color: red;
+  color: white;
   text-align: center;
-  font-size: 40px;
-  font-family: "Comic Sans Ms", sans-serif;
+  font-size: 30px;
+  font-family: "Quicksand", sans-serif;
 }
 h3{ 
-  color: orange;
+  color: white;
   text-align: center;
-  font-size: 32px;
-  font-family: "Comic Sans Ms", sans-serif;
-}
-table{
-  border: 2px solid black;
+  font-size: 14px;
+  font-family: "Quicksand", sans-serif;
 }
 a{
-  font-family:"Candara", sans-serif; 
+  font-family:"Quicksand", sans-serif; 
   font-size: 30px;
 }
 body {
@@ -55,9 +51,10 @@ span.menu {
 	left: 150%;
 	top: 7px;
 	font-size: 22px;
-	font-family: 'Comfortaa', cursive, sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	letter-spacing: 1px;
 	color: #fafafa;
+	
 }
 
 .container {
